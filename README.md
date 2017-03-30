@@ -2,6 +2,10 @@
 
 ― [Dr. Seuss](http://quoteinvestigator.com/2016/07/25/smile/)
 
+Course number | Course title | Instructor |
+**INFO 201** | _Technical Foundations_ | Mike Freeman |
+**CSE 154** | _Web Programming_ | Whitaker |
+**STAT 311** | _Elements of Statitis | Moris |
 # Markdown
 
 Markdown syntax provides a simple way to describe the desired formatting of text documents. In fact, all of the learning modules (including this one you're reading) were written using Markdown! With only a small handful of options, Markdown allows you to provide structure to a document, as well as formatting to your text (like **bold**, or _italics_). There are a number of programs that support the rendering of Markdown, including GitHub, Slack, and StackOverflow (note: the syntax implementation may vary slightly across programs). In this section, you'll learn the basics of Markdown syntax, and how to leverage it.
