@@ -7,7 +7,11 @@
 
 |**INFO 201** | _Technical Foundations_ | Mike Freeman |
 
+|--------------|--------------|------------|
+
 |**CSE 154** | _Web Programming_ | Whitaker |
+
+|--------------|--------------|------------|
 
 |**STAT 311** | _Elements of Statitis | Moris |
 # Markdown
