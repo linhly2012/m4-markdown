@@ -3,8 +3,12 @@
 ― [Dr. Seuss](http://quoteinvestigator.com/2016/07/25/smile/)
 
 |Course number | Course title | Instructor |
+|--------------|--------------|------------|
+
 |**INFO 201** | _Technical Foundations_ | Mike Freeman |
+
 |**CSE 154** | _Web Programming_ | Whitaker |
+
 |**STAT 311** | _Elements of Statitis | Moris |
 # Markdown
 
